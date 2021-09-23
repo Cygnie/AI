@@ -1,2 +1,2 @@
 # AI
-AI Learning
+My AI models.
